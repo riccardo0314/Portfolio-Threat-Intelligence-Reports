@@ -19,4 +19,4 @@ The investigation started from a suspected HYIP (High-Yield Investment Program) 
 
 ## Repository Contents
 * `001-IoCs.csv`: The list of malicious IP and domains.
-* `.yara`: A YARA rule designed to detect the HTML source code of the Credit Union phishing kit.
+* `NCG_HCC_PhishingKit.yara`: A YARA rule designed to detect the HTML source code of the Credit Union phishing kit.
