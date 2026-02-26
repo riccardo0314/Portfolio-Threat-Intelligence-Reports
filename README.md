@@ -4,7 +4,7 @@ This repository serves as a centralized archive for my technical investigations,
 
 ## Case Files & Investigations
 
-### [001. Uncovering a Shared Infrastructure for Multi-Stage Financial Fraud](./02-MultiStage-Fraud-HCCU)
+### [001. Uncovering a Shared Infrastructure for Multi-Stage Financial Fraud](./001-Fraud-NCG_HCC)
 * **Target:** `netcapitalglobe[.]com` / `heritagecommunitycredit[.]com`
 * **Threat Type:** HYIP Scam / Credential Harvesting
 * **Highlights:** Infrastructure pivoting on Namecheap shared hosting, Phishing Kit profiling (Livewire vs Bootstrap), IoC and YARA rule creation for HTML source code detection.
